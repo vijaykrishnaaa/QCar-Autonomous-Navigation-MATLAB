@@ -5,7 +5,7 @@ Six MATLAB simulations of the predefined **Quanser QCar** robot model (`loadrobo
 
 ## Academic details and acknowledgement
 
-
+| | |
 |---|---|
 | **Student Name(s) and Registration Number(s)** | Vijay Krishna - CB.SC.U4CSE23112<br>Avinash - CB.SC.U4CSE23116<br>Jeevan - CB.SC.U4CSE23124<br>Manish - CB.SC.U4CSE23125<br>Prakash - CB.SC.U4CSE23610<br>Tejeswara Reddy - CB.SC.U4CSE23614 |
 | **Mentor** | Dr. A. Baskar |
